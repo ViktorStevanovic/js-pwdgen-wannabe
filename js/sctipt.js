@@ -8,3 +8,5 @@ const userColor = prompt( 'Scrivi il tuo colore preferito')
 let userPassword = userName + userSurname + userColor + '21'
 
 document.getElementById('new-password').innerHTML = 'La tua nuova password è: ' + userPassword
+
+// Finished
